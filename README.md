@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi, I'm [Your Name]
+Hi, I'm Adam
 
 Cybersecurity enthusiast focused on building practical skills and hands-on experience in IT and security.
 
