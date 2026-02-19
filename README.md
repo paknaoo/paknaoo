@@ -6,5 +6,5 @@ I'm a cybersecurity enthusiast focused on building practical skills and hands-on
 ## 🔐 Areas of Interest
 - Linux
 - System Admin
-- Penetrating Testing
+- Penetration Testing
 - SOC analysis
