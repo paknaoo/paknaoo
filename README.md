@@ -2,5 +2,5 @@
 
 I'm Adam.
 
-Interested in cybersecurity, networking and Linux.
+Interested in security, networking and unix-like systems.
 Currently learning by building things, breaking them, and fixing them again.
