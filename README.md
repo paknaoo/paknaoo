@@ -1,10 +1,6 @@
-## Hi there 👋
+Hi there 👋
 
-Hi, 
-I'm a cybersecurity enthusiast focused on building practical skills and hands-on experience in IT and information security.
+I'm Adam.
 
-## 🔐 Areas of Interest
-- Linux
-- System Admin
-- Penetration Testing
-- SOC analysis
+Interested in cybersecurity, networking and Linux.
+Currently learning by building things, breaking them, and fixing them again.
